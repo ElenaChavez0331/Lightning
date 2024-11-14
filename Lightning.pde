@@ -51,7 +51,7 @@ line(startC+100,startE,endC+100,endE);//lighntinh builindg 2.0
     startY = endY;  
     startC = endC;
     startE = endE;
-  img = loadImage("wave-removebg-preview.png");
+  img = loadImage("wave.png");
   img.resize(500,200);
   image(img,X,300);
  
